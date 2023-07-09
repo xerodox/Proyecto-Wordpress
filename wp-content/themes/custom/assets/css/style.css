@@ -1,0 +1,16 @@
+.navbar.hestia_left > .container {
+    flex-direction: row;
+    background: black;
+    margin: 0;
+    width: 100%;
+    padding: 40px 170px;
+}
+
+.navbar-nav {
+    color: white;
+}
+
+.main{
+    background-color: black;
+    padding: 0 170px;
+}

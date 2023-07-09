@@ -1,0 +1,14 @@
+/*
+Theme Name: Hestia Custom
+Template: hestia
+Author: Juan Luis Navarro Nuñez
+Description: Custom theme of hestia
+Version: 1.0.0
+Requires PHP: 5.4.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: hestia
+Tags: custom-theme, portfolio
+*/
+@import url('../hestia/style.css');
+@import url('./assets/css/style.css');
